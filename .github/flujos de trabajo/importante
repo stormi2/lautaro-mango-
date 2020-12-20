@@ -1,0 +1,28 @@
+{
+  " // 1 " : " describe tu aplicación y sus dependencias " ,
+  " // 2 " : " https://docs.npmjs.com/files/package.json " ,
+  " // 3 " : " actualizar este archivo descargará y actualizará sus paquetes " ,
+  " nombre " : " hola-expreso " ,
+  " versión " : " 0.0.1 " ,
+  " description " : " Una aplicación de nodo simple construida en Express, lista y ejecutándose instantáneamente. " ,
+  " main " : " server.js " ,
+  " scripts " : {
+    " inicio " : " nodo server.js "
+  },
+  " dependencias " : {
+    " express " : " ^ 4.16.4 " ,
+    " discord.js " : " ^ 11.5.1 "
+  },
+  " motores " : {
+    " nodo " : " 8.x "
+  },
+  " repositorio " : {
+    " url " : " https://glitch.com/edit/#!/hello-express "
+  },
+  " licencia " : " MIT " ,
+  " palabras clave " : [
+    " nodo " ,
+    " fallo " ,
+    " expreso "
+  ]
+}
