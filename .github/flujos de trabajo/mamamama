@@ -1,0 +1,21 @@
+{
+" instalar " : {
+  " incluir " : [
+    " ^ paquete \\ .json $ " ,
+    " ^ \\ .env $ "
+  ]
+},
+
+" reiniciar " : {
+  " excluir " : [
+    " ^ público / " ,
+    " ^ dist / "
+  ],
+
+  " incluir " : [
+    " \\ .js $ " ,
+    " \\ .json "
+  ]
+},
+" acelerador " : 150000
+}
